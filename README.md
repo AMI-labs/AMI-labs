@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Welcome to AMI – Adem Mechatronic Institute
 
-<!--
-**AMI-labs/AMI-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Founder:** Adem  
+🧠 **Focus:** Robotics • Code • AI • Mechatronics  
+🏗️ **Mission:** Building intelligent machines through clean code, advanced mechanics, and a passion for innovation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 What We Build
+- 🤖 Autonomous robotics
+- 💡 Embedded systems & IoT
+- 🧠 AI + machine learning for real-world machines
+- 🛠️ Experimental mechatronic designs
+
+---
+
+## 🌱 Currently Learning
+- ROS (Robot Operating System)
+- C++ for embedded hardware
+- Machine learning + CV for robotics
+
+---
+
+## 📫 Contact
+Feel free to reach out via GitHub or [add your email/social here].
+
+---
+
+> **AMI – Designed by Adem. Built for the future.**
